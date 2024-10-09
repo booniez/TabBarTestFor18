@@ -1,0 +1,30 @@
+{
+  "images" : [
+    {
+      "filename" : "map_type_outline.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "filename" : "map_type_outline 1.pdf",
+      "idiom" : "universal",
+      "width-class" : "compact"
+    },
+    {
+      "filename" : "map_type_outline 3.pdf",
+      "idiom" : "ipad"
+    },
+    {
+      "filename" : "map_type_outline 2.pdf",
+      "idiom" : "ipad",
+      "width-class" : "compact"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true,
+    "template-rendering-intent" : "original"
+  }
+}
